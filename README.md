@@ -1,3 +1,4 @@
+[![Version](https://img.shields.io/cocoapods/v/NotificationBannerSwift.svg?style=flat)](http://cocoapods.org/pods/NotificationBannerSwift)
 ![](https://img.shields.io/badge/language-swift-blue.svg)
 ![](https://img.shields.io/badge/version-4.0-red.svg)
 ### Quick Start:
@@ -26,6 +27,10 @@ post_install do |installer|
     end
 end
 ```
+### Features:
+Realtime object detection
+Support for Android and iOS
+"Live" Switching between Portrait and Landscape Orientation
 
 
 ### Technical details:
