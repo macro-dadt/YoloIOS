@@ -1,10 +1,12 @@
 ![](https://img.shields.io/badge/language-swift-blue.svg)
 ![](https://img.shields.io/badge/version-4.0-red.svg)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 ### Quick Start:
 let classifier = YoloTinyV1Classifier()
+
 classifier.loadModel()
+
 classifier.classifyImage(your-image)
+
 let boxes = classifier.result()
 ### Installation:
 #### • CocoaPods
